@@ -19,7 +19,7 @@ window["distri/stats.js:master"]({
     },
     "pixie.cson": {
       "path": "pixie.cson",
-      "content": "version: \"0.11.0-pre.1\"\nentryPoint: \"lib/stats\"\n",
+      "content": "version: \"0.11.0\"\nentryPoint: \"lib/stats\"\n",
       "mode": "100644"
     }
   },
@@ -31,14 +31,14 @@ window["distri/stats.js:master"]({
     },
     "pixie": {
       "path": "pixie",
-      "content": "module.exports = {\"version\":\"0.11.0-pre.1\",\"entryPoint\":\"lib/stats\"};",
+      "content": "module.exports = {\"version\":\"0.11.0\",\"entryPoint\":\"lib/stats\"};",
       "type": "blob"
     }
   },
   "progenitor": {
     "url": "http://www.danielx.net/editor/"
   },
-  "version": "0.11.0-pre.1",
+  "version": "0.11.0",
   "entryPoint": "lib/stats",
   "repository": {
     "branch": "master",
